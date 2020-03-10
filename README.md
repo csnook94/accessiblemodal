@@ -4,9 +4,9 @@ This Accessible Modal is a personal development repository by Cameron Snook. Thi
 
 # Steps Achieved:
 
-- Refactored Key Press Check
-- Focusable Elements Vanilla Class
-- Trapping Focus within active modal
+- Refactored Key Press Check :white_check_mark:
+- Focusable Elements Vanilla Class :white_check_mark:
+- Trapping Focus within active modal :white_check_mark:
 
 # To Do:
 
