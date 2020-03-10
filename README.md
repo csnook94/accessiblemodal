@@ -16,3 +16,8 @@ This Accessible Modal is a personal development repository by Cameron Snook. Thi
 - Refactor First Tab stop when Modal is disable :pencil:
 - Refactor Toggle Modal function using keyCheck :pencil:
 - Trigger via URL states :pencil:
+
+# Future Targets:
+
+- MVP integration
+- Rebuild using REACT
