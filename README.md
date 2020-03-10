@@ -8,9 +8,11 @@ This Accessible Modal is a personal development repository by Cameron Snook. Thi
 - Refactored Key Press Check :white_check_mark:
 - Focusable Elements Vanilla Class :white_check_mark:
 - Trapping Focus within active modal :white_check_mark:
+- Github repo integration :pencil:
 
 # To Do:
 
-- Github repo integration :pencil:
-- Trigger via URL states :pencil:
+- Aria Hidden states within Toggle method :pencil:
+- Refactor First Tab stop when Modal is disable :pencil:
 - Refactor Toggle Modal function using keyCheck :pencil:
+- Trigger via URL states :pencil:
